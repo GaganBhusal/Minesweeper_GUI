@@ -1,4 +1,4 @@
-# Minesweeper GUI — Classic Game, Python-Powered!
+# Minesweeper GUI — Classic Game!
 
 Helloooooo!  
 This is my version of good old **Minesweeper** game — built entirely with Python using `tkinter` for GUI.
@@ -16,11 +16,12 @@ This is my version of good old **Minesweeper** game — built entirely with Pyth
 
 ## Gameplay Previews
 
-
-- ![Loading Screen](Images/gameplay1.png)
-- ![Gameplay](Images/gameplay3.png)
-- ![End](Images/gameplay2.png)
-
+<img src="Images/gameplay1.png" alt="Gameplay 1" width="400"/>
+<br/>
+<img src="Images/gameplay3.png" alt="Gameplay 2" width="400"/>
+<br/>
+<img src="Images/gameplay2.png" alt="Gameplay 1" width="400"/>
+<br/>
 ---
 
 ## For Getting Started
