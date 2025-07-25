@@ -17,8 +17,9 @@ This is my version of good old **Minesweeper** game — built entirely with Pyth
 ## Gameplay Previews
 
 
-- !(Images/gameplay1.png)
-- !(Images/gameplay2.png)
+- ![Loading Screen](Images/gameplay1.png)
+- ![Gameplay](Images/gameplay3.png)
+- ![End](Images/gameplay2.png)
 
 ---
 
